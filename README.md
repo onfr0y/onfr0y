@@ -25,7 +25,7 @@ Hey there! I'm Kittisak Porkha, but you can call me Froy. I'm a high school stud
 ## 💻 Tech & Development
 
 - **Programming**: I'm diving into HTML, CSS, and Python with a goal of becoming a software engineer. I’m particularly interested in AI development and website creation.
-- **Firebase Community**: I actively participate in local tech communities, including Firebase, to expand my knowledge and skills.
+
 
 ---
 
