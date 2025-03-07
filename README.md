@@ -1,4 +1,6 @@
 
 # Kittisak porkha
 
-absurdism 16
+absurdism 16 
+
+clothes , tech enthusiast 
