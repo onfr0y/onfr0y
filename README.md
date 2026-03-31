@@ -1,9 +1,3 @@
-
-# Kittisak porkha
-
-
-16 | Tech Enthusiast | Absurdism | Clothes
-
 ⚡ Kittisak Porkha16 | Tech Enthusiast | Absurdism | Clothes💻 System._whoami()const kittisak = {
   age: 16,
   interests: ["Tech Enthusiast", "Absurdism", "Clothes"],
