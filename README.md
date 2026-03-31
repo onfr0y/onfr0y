@@ -19,10 +19,7 @@ const kittisak = {
 </p>
 ```
 
-🧥 Beyond the Code
-"The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy... and well-dressed."
 
-When I'm not debugging memory leaks or type-checking TypeScript, I'm exploring the intersection of Absurdist philosophy and Modern Aesthetics. I believe code should be as well-structured as a bespoke suit.
 ```
 📊 System Stats
 <p align="left">
