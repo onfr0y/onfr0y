@@ -10,13 +10,7 @@ const kittisak = {
 };
 ```
 ```
-### 🛠️ Languages & ⚙️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,postgres,sqlite,react,docker,git,linux,tailwind,html,css" />
-</p>
-
-</p>
-```
+### 🛠️ Languages Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,postgres,sqlite,react,docker,git,linux,tailwind,html,css" />
 </p>
