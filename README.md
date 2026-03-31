@@ -1,16 +1,58 @@
+
+````markdown
 # ⚡ System._whoami()
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=16+y.o.+Tech+Enthusiast;Absurdist+Philosopher;Clothing+Connoisseur;Full-stack+Chaos+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=435&lines=16+y.o.+Tech+Enthusiast;Absurdist+Philosopher;Clothing+Connoisseur;Full-stack+Chaos" alt="Typing SVG" />
 </p>
-
----
 
 ### 💻 The Manifest
 ```javascript
 const kittisak = {
   age: 16,
-  status: "Finding meaning in the meaningless",
-  interests: ["Tech", "Absurdism", "Textiles"],
-  locating: "Pakkret, Nonthaburi"
+  philosophy: "Absurdism",
+  interests: ["Tech", "Minimalism", "Clothes"],
+  stack: ["React", "SQLite", "Docker"],
+  languages: ["JS", "TS", "Python", "C", "SQL"]
 };
+````
+
+### 🛠️ Languages & ⚙️ Tech Stack
+
+\<p align="left"\>
+\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,python,c,postgres,sqlite,react,docker,git,linux,tailwind,html,css" /\>
+\</p\>
+
+-----
+
+### 🧥 Beyond the Code
+
+> "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy... and well-dressed."
+
+When I'm not debugging memory leaks or type-checking TypeScript, I'm exploring the intersection of **Absurdist philosophy** and **Modern Aesthetics**. I believe code should be as well-structured as a bespoke suit.
+
+-----
+
+### 📊 System Stats
+
+\<p align="left"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR\_GITHUB\_USERNAME%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Kittisak's Stats" height="150" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR\_GITHUB\_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Top Languages" height="150" /\>
+\</p\>
+
+-----
+
+\<p align="center"\>
+\<sub\>Built with ⚡ by Kittisak Porkha\</sub\>
+\</p\>
+
+```
+
+-----
+
+### 💡 Quick Customization:
+
+1.  **Change the Stats:** Replace `YOUR_GITHUB_USERNAME` in the two links at the bottom with your actual GitHub username so your real data shows up.
+2.  **The Icons:** I used `skillicons.dev` because they look incredibly clean and unified.
+3.  **The Vibe:** The `tokyonight` theme on the stats cards matches the dark, tech-enthusiast aesthetic perfectly.
+```
