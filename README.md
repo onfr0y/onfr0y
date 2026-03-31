@@ -1,8 +1,8 @@
+absurdism, 17
 
-### 💻 The Manifest
 ```javascript
 const kittisak = {
-  age: 16,
+  age: 17,
   philosophy: "Absurdism",
   interests: ["Tech", "Minimalism", "Clothes"],
   stack: ["React", "SQLite", "Docker"],
