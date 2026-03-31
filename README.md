@@ -36,8 +36,8 @@ When I'm not debugging memory leaks or type-checking TypeScript, I'm exploring t
 ### 📊 System Stats
 
 \<p align="left"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR\_GITHUB\_USERNAME%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Kittisak's Stats" height="150" /\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR\_GITHUB\_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Top Languages" height="150" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnotonfr0y%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Kittisak's Stats" height="150" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnotonfr0y%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue" alt="Top Languages" height="150" /\>
 \</p\>
 
 -----
@@ -50,9 +50,3 @@ When I'm not debugging memory leaks or type-checking TypeScript, I'm exploring t
 
 -----
 
-### 💡 Quick Customization:
-
-1.  **Change the Stats:** Replace `YOUR_GITHUB_USERNAME` in the two links at the bottom with your actual GitHub username so your real data shows up.
-2.  **The Icons:** I used `skillicons.dev` because they look incredibly clean and unified.
-3.  **The Vibe:** The `tokyonight` theme on the stats cards matches the dark, tech-enthusiast aesthetic perfectly.
-```
