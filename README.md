@@ -1,17 +1,16 @@
-⚡ Kittisak Porkha
+# ⚡ System._whoami()
 
-16 | Tech Enthusiast | Absurdism | Clothes
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=16+y.o.+Tech+Enthusiast;Absurdist+Philosopher;Clothing+Connoisseur;Full-stack+Chaos+Engineer" alt="Typing SVG" />
+</p>
 
-💻 System._whoami()
+---
 
+### 💻 The Manifest
+```javascript
 const kittisak = {
   age: 16,
-  interests: ["Tech Enthusiast", "Absurdism", "Clothes"],
-  languages: ["JavaScript", "C", "TypeScript", "Python", "SQL"],
-  techStack: ["React", "SQLite", "Docker"]
+  status: "Finding meaning in the meaningless",
+  interests: ["Tech", "Absurdism", "Textiles"],
+  locating: "Pakkret, Nonthaburi"
 };
-
-
-🛠️ Languages
-
-⚙️ Tech Stack
