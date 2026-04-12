@@ -4,7 +4,7 @@
 const kittisak = {
   age: 17,
   philosophy: "Absurdism",
-  interests: ["Tech", "Minimalism", "Clothes"],
+  interests: ["Tech", "Fashion", "Clothes", "Math", "Physics"],
   stack: ["React", "SQLite", "Docker"],
   languages: ["JS", "TS", "Python", "C", "SQL"]
 };
