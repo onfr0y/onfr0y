@@ -6,13 +6,13 @@ const kittisak = {
   philosophy: "Absurdism",
   interests: ["Tech", "Fashion", "Clothes", "Math", "Physics"],
   stack: ["React", "SQLite", "Docker"],
-  languages: ["JS", "TS", "Python", "C", "SQL"]
+  languages: ["JS", "TS", "Python", "C", "C++,"SQL"]
 };
 ```
 
 ###  Languages Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,postgres,sqlite,react,docker,git,linux,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,postgres,sqlite,react,docker,git,linux,tailwind,html,css" />
 </p>
 
 
