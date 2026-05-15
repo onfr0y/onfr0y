@@ -1,9 +1,9 @@
-### absurdism, 17
+### Existentialism, 17
 
 ```javascript
 const kittisak = {
   age: 17,
-  philosophy: "Absurdism",
+  philosophy: "Existentialism",
   interests: ["Tech", "Fashion", "Clothes", "Math", "Physics"],
   stack: ["React", "SQLite", "Docker"],
   languages: ["JS", "TS", "Python", "C", "C++,"SQL"]
