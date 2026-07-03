@@ -4,7 +4,7 @@
 const kittisak = {
   age: 17,
   philosophy: "Existentialism",
-  interests: ["Tech", "Fashion", "Clothes", "Math", "Physics", "Philosophy],
+  interests: ["Tech", "Fashion", "Clothes", "Math", "Physics" ]
   stack: ["React", "SQLite", "Docker"],
   languages: ["JS", "TS", "Python", "C", "C++,"SQL"]
 };
